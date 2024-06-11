@@ -1,6 +1,6 @@
 {
   "name": "@womorg/literate-octo",
-  "version": "2.5.42",
+  "version": "2.5.43",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -197,5 +197,5 @@
   "bugs": {
     "url": "https://github.com/womorg/literate-octo/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
