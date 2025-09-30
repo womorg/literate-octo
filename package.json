@@ -1,9 +1,9 @@
 {
   "name": "@womorg/literate-octo",
-  "version": "9.33.367",
+  "version": "9.33.368",
   "description": "",
   "main": "index.js",
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/animated": "^1.0.0",
@@ -197,5 +197,5 @@
   "bugs": {
     "url": "https://github.com/womorg/literate-octo/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.10.3"
 }
