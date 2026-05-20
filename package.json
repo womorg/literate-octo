@@ -1,6 +1,6 @@
 {
   "name": "@womorg/literate-octo",
-  "version": "19.50.572",
+  "version": "19.50.573",
   "description": "",
   "main": "index.js",
   "author": "maggaopen",
@@ -197,5 +197,5 @@
   "bugs": {
     "url": "https://github.com/womorg/literate-octo/issues"
   },
-  "packageManager": "yarn@4.14.1"
+  "packageManager": "yarn@4.15.0"
 }
